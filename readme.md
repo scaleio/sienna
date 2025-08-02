@@ -12,7 +12,7 @@ We've packed her food & water and bowls. There should be a total of 3 stainless 
 
 * **Comfort Blanky**
     * We'll pack a couple of comfort items that have Sienna's scent so you can make a cosy sleep place for her.
-    * ![](photos/sienna_14.jpg),  
+    * ![](photos/sienna_14.jpg)
 
 * **Bowls:**
     * We use the deeper stainless steel bowl with paw prints for water and one of the shallower ones for her food.
@@ -40,7 +40,8 @@ We've packed her food & water and bowls. There should be a total of 3 stainless 
 * **Special Treats:**
     * **What:** Crumps' Naturals (Mini Trainers and Nice Nibbles)
     * These are high-value treats, perfect for rewarding her for doing tricks or obeying to commands. These are great for training. A few of these a day is plenty.
-    * ![](photos/sienna_10.jpg) ![](photos/sienna_11.jpg)
+    * ![](photos/sienna_10.jpg)
+    * ![](photos/sienna_11.jpg)
 
 ---
 
@@ -56,6 +57,8 @@ We've packed her food & water and bowls. There should be a total of 3 stainless 
     * We usually just tied a poop bag to the leash, so you can pick up after her. We will also give you guys a fresh roll of poop bags.    
     * She is used to about two - three walks a day: a shorter one in the morning and afternoon and a longer one in the morning. Depending on when you wanna go to bed make sure that she pees / poops shortly before that. You can also for instance stop giving her water after 8/9pm, let her pee after that and then she should be good for the night. I think there will be some learning / adjustment to whatever your rhythm is.
     * When we get to a bigger road I usually tell her to "sit". When she is excited and doesn't listen, I follow that up with a gentle tug on the leash and tell her to "sit" again. And then when we cross I will say "come one. let's go."
+    * When we walk past people I usually shorten the leash a bit. Sienna tends to be more excited about meeting people than other dogs and wants to sniff. Sometimes she "happy charges" at people or jumps up at their legs. And people have different reactions to that - I just try to avoid scaring them or getting somebodies pants dirty etc.
+    * She will mostly try to avoid bigger dogs. Not sure how she can tell but she generally isn't afraid of certain, very calm dogs and happily interacts with them while avoiding most bigger dogs or dogs that are very excited or overly excited.
     * ![](photos/sienna_7.jpg)
 
 ---
@@ -66,7 +69,8 @@ Sienna loves to play! Here are some of her favorites:
 
 * **The Puzzle Toy (Green & Yellow Ball):**
     * This is a food-dispensing toy. You can put some of her kibble or a few of the small Crumps' treats inside. I mostly use kibble because it doesn't take her very long to get to it and then we use all the high-reward foods too quickly. She has to nudge and roll it to get the treats out. It’s a fantastic way to keep her mentally stimulated. Although she is very good at it. You have to adjust the size of the openings to the food you put inside to pace the speed of dispensing it.
-    * ![](photos/sienna_8.jpg), ![](photos/sienna_9.jpg)
+    * ![](photos/sienna_8.jpg)
+    * ![](photos/sienna_9.jpg)
 
 * **Monkey Rope Toy:**
   * She loves to chew on the rope limbs and carry this one around. It's another good toy for independent play or light tugging.
@@ -102,9 +106,22 @@ If you have time, she would love a little brushing. It helps keep her coat clean
 * **Metal Comb:** Use this for any more stubborn areas or if you find any small tangles, particularly behind her ears or on her legs.
 * ![](photos/sienna_5.jpg)
 
+* **Showers**
+  * TODO
+
 ---
 
-## 6. Emergency Information
+## 6. Quirks
+
+* **Zoomies**
+  * TODO
+* **Smoke Smell / Smoke Alarm**
+  * TODO
+* ...
+
+---
+
+## 7. Emergency Information
 
 * **Our Vet:**
   * The Hamlet Veterinary Clinic
