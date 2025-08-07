@@ -50,7 +50,7 @@ We've packed her food & water and bowls. There should be a total of 3 stainless 
 * **The Potty Bell!**
     * Sienna knows how to tell you when she needs to go outside! We have a bell that [e.g., hangs on the backdoor doorknob]. If you hear her ringing it with her nose or paw, please let her out for a potty break.
     * Since she will be in a different home you may have to show her her bell. I think she will catch on pretty quick.
-    * ![TODO](photos/todo.png)
+    * ![TODO](photos/sienna_15.jpg)
 
 * **Leash & Walks:**
     * Her leash is the pink rope one. The handle is padded for comfort.
